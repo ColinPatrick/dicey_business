@@ -1,0 +1,43 @@
+body {
+   background-color: #f5d782; 
+}
+
+.btn {
+    font-size: 18px;
+    margin: 10px;
+    border-radius: 6px;
+    background-color: #faf3e0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #c39e5c;
+}
+
+.dice {
+    height: 100px;
+    width: 100px;
+    margin: 8px;
+    border: 2px solid black;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+#btnArea {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+#container {
+    border: 2px solid black;
+    border-radius: 6px;
+    margin: 5px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
