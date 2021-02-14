@@ -26,6 +26,10 @@ body {
     justify-content: center;
 }
 
+.dice:hover {
+    cursor: pointer;
+}
+
 #btnArea {
     text-align: center;
     border: 2px solid black;
